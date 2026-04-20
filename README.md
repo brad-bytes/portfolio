@@ -1,2 +1,1 @@
-# portfolio
-Original portfolio project
+# A Portfolio Project
